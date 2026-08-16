@@ -46,3 +46,9 @@ Return: 20.00 %
 - Automatically retrieve stock market data using a financial data library such as yfinance
 - Display stock data and calculated returns in a table
 - Allow users to select a custom time period
+
+## Limitations
+
+- Stock prices must be entered manually.
+- The program does not retrieve real-time market data.
+- No transaction fees or taxes are included.
